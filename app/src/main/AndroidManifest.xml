@@ -16,33 +16,44 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ArtistsList"
+        <activity
+            android:name=".ArtistsList"
             android:label="Artists list"
+            android:parentActivityName=".MainActivity"
+
             />
-        <activity android:name=".BeethovenActivity"
+        <activity
+            android:name=".BeethovenActivity"
             android:label="Beethoven Tracks"
-            />
-        <activity android:name=".ChopinActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".ChopinActivity"
             android:label="Chopin Tracks"
-            />
-        <activity android:name=".TchaikovskyActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".TchaikovskyActivity"
             android:label="Tchaikovsky Tracks"
-            />
-        <activity android:name=".BachActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".BachActivity"
             android:label="Bach Tracks"
-            />
-        <activity android:name=".MozartActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".MozartActivity"
             android:label="Mozart Tracks"
-            />
-        <activity android:name=".VivaldiActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".VivaldiActivity"
             android:label="Vivaldi Tracks"
-            />
-        <activity android:name=".RachmaninoffActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".RachmaninoffActivity"
             android:label="Rachmaninoff Tracks"
-            />
-        <activity android:name=".SatieActivity"
+            android:parentActivityName=".ArtistsList" />
+        <activity
+            android:name=".SatieActivity"
             android:label="Satie Tracks"
-            ></activity>
+            android:parentActivityName=".ArtistsList"></activity>
     </application>
 
 </manifest>
