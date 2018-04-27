@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ProjectNo4Classic</string>
+    <string name="click">Click here to listen to amazing classic music.</string>
+    <string name="beethoven_n_l">Ludwig van Beethoven</string>
+    <string name="country_germany">Germany</string>
+    <string name="beethoven_age">(1770 - 1827)</string>
+    <string name="chopin_n_l">Fryderyk François Chopin</string>
+    <string name="country_poland">Poland</string>
+    <string name="chopin_age">(1810 - 1849)</string>
+    <string name="tchaikovsky_n_l">Pyotr Ilyich Tchaikovsky</string>
+    <string name="country_russia">Russia</string>
+    <string name="tchaikovsky_age">(1840 - 1893)</string>
+    <string name="bach_n_l">Johann Sebastian Bach</string>
+    <string name="bach_age">(1685 - 1750)</string>
+    <string name="mozart_n_l">Wolfgang Amadeus Mozart</string>
+    <string name="country_austria">Austria</string>
+    <string name="mozart_age">(1756 - 1791)</string>
+    <string name="vivaldi_n_l">Antonio Lucio Vivaldi</string>
+    <string name="country_italy">Italy</string>
+    <string name="vivaldi_age">(1678 - 1741)</string>
+    <string name="rachmaninoff_n_l">Sergei Vasilievich Rachmaninoff</string>
+    <string name="rachmaninoff_age">(1873 - 1943)</string>
+    <string name="satie_n_l">Alfred Éric Leslie Satie</string>
+    <string name="country_france">France</string>
+    <string name="satie_age">(1866 - 1925)</string>
+    <string name="beethoven_list_j">Let\'s see what Beeto has in store for us :)</string>
+    <string name="chopin_list_j">"Let's see what Chop has in store for us :)"</string>
+    <string name="tchaikovsky_list_j">"Let's see what Tchiko has in store for us :)"</string>
+    <string name="bach_list_j">"Let's see what Bacho has in store for us :)"</string>
+    <string name="mozart_list_j">"Let's see what Mizo has in store for us :)"</string>
+    <string name="vivaldi_list_j">"Let's see what Vivo has in store for us :)"</string>
+    <string name="rachmaninoff_list_j">"Let's see what Rimoo has in store for us :)"</string>
+    <string name="satie_list_j">"Let's see what Sitoo has in store for us :)"</string>
+    <string name="listen">"Listen to the silence? it's a demo version, dude :)"</string>
+</resources>

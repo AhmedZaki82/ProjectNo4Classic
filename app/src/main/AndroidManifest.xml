@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.projectno4classic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ArtistsList"
+            android:label="Artists list"
+            />
+        <activity android:name=".BeethovenActivity"
+            android:label="Beethoven Tracks"
+            />
+        <activity android:name=".ChopinActivity"
+            android:label="Chopin Tracks"
+            />
+        <activity android:name=".TchaikovskyActivity"
+            android:label="Tchaikovsky Tracks"
+            />
+        <activity android:name=".BachActivity"
+            android:label="Bach Tracks"
+            />
+        <activity android:name=".MozartActivity"
+            android:label="Mozart Tracks"
+            />
+        <activity android:name=".VivaldiActivity"
+            android:label="Vivaldi Tracks"
+            />
+        <activity android:name=".RachmaninoffActivity"
+            android:label="Rachmaninoff Tracks"
+            />
+        <activity android:name=".SatieActivity"
+            android:label="Satie Tracks"
+            ></activity>
+    </application>
+
+</manifest>
